@@ -1,0 +1,3 @@
+- Primer (printf): las variables X,Y,Z no se modifican porque se inmprime la variable con su formato decimal inicial.
+- Segundo (printf): en la variable X %.2f se imprime los dos primeros numeros despues del punto por ende el numero es 10 ya que fue modificado dos lineas anteriores, en la variable Y %c se imprime un caracter, y en la variable Z imprime su formato decimal inicial.
+- Tercer (printf): en la variable X %.2f se imprime los dos primeros numeros despues del punto, en la variable Y %c se imprime un caracter, y en la variable Z se modifica en la linea anterior e imprime el numero nuevo en formato decimal.
